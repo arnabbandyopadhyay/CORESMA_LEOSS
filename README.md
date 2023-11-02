@@ -6,3 +6,9 @@ Upon the initial positive test result for SARS-CoV-2 and at the first point of r
 We want to determine the predictive power of the expression of biomarkers for disease severity by considering only those patients who were at different disease state using Machine learning methods. Analysis were performed in R version 4.1.2. Following libraries were used: caret, dlookr, MASS, MLeval, readxl, stringr, dplyr, grid, gridExtra, combinat, ggpubr, ggplot2.
 
 A link to the data is not possible to provide for legal reasons. 
+
+machine_learning_uc_co_cr.R analyses the biomarker expression among different disease states, UC, CO and CR.
+
+machine_learning_co_cr.R analyses the biomarker expression of CO and CR patients.
+
+ML_variant.R and ML_variant_of_concern.R analyses the biomarker expression in CR patients infected with either Wt, alpha and other variant of concern.
