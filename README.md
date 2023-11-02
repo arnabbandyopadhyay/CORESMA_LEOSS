@@ -12,3 +12,5 @@ machine_learning_uc_co_cr.R analyses the biomarker expression among different di
 machine_learning_co_cr.R analyses the biomarker expression of CO and CR patients.
 
 ML_variant.R and ML_variant_of_concern.R analyses the biomarker expression in CR patients infected with either Wt, alpha and other variant of concern.
+
+comorbid.R and ML_comorbid.R analyses the biomarker expression between the healthy/comorbid uncomplicated and healthy/comorbid critical patients.
